@@ -1,1 +1,1 @@
-My Shell Variables and Expansions Projects
+Shell variables expansions
