@@ -1,1 +1,1 @@
-Confuguration Management
+Configuration Managment
